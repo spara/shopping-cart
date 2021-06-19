@@ -26,9 +26,10 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
+      "defaults",
+      "not IE 11",
       "not dead",
-      "not op_mc7b22fd66e2eini all"
+      "maintained node versions"
     ],
     "development": [
       "last 1 chrome version",
@@ -36,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:3000",
+  "proxy": "http://server:3000",
   "devDependencies": {
     "cross-env": "^7.0.2"
   },

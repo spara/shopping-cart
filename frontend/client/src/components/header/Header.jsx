@@ -12,7 +12,7 @@ const Header = () => {
         <nav className={style.header_nav}>
           <div className={style.brand}>
             <NavLink className={style.text_logo} to="/">
-              NIKERS
+              Pulumipus
             </NavLink>
           </div>
           <NavLink to="/cart" className={style.cart}>

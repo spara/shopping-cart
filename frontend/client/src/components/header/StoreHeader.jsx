@@ -5,29 +5,29 @@ const FootwareMenus = () => {
   const footwareTypes = [
     {
       id: 1,
-      title: 'Loafers',
+      title: 'Boba Tea',
       active: false,
     },
-    {
-      id: 2,
-      title: 'Sneakers',
-      active: true,
-    },
-    {
-      id: 3,
-      title: 'Oxfords',
-      active: false,
-    },
-    {
-      id: 4,
-      title: 'Chelsea Boots',
-      active: false,
-    },
-    {
-      id: 5,
-      title: 'Slides',
-      active: false,
-    },
+    // {
+    //   id: 2,
+    //   title: 'Latte',
+    //   active: true,
+    // },
+    // {
+    //   id: 3,
+    //   title: 'Chills',
+    //   active: false,
+    // },
+    // {
+    //   id: 4,
+    //   title: 'Chelsea Boots',
+    //   active: false,
+    // },
+    // {
+    //   id: 5,
+    //   title: 'Slides',
+    //   active: false,
+    // },
   ];
 
   return (
@@ -66,32 +66,32 @@ const TabsController = ({ customerTypeChange }) => {
             className={active === 1 ? style.active_tab : ''}
             onClick={() => changeCustType(1)}
           >
-            Everyone
+            All
           </li>
           <li
             className={active === 2 ? style.active_tab : ''}
             onClick={() => changeCustType(2)}
           >
-            Men
+            Boba
           </li>
           <li
             className={active === 3 ? style.active_tab : ''}
             onClick={() => changeCustType(3)}
           >
-            Women
+            Latte
           </li>
           <li
             className={active === 4 ? style.active_tab : ''}
             onClick={() => changeCustType(4)}
           >
-            Unisex
+            Chills
           </li>
-          <li
+          {/* <li
             className={active === 5 ? style.active_tab : ''}
             onClick={() => changeCustType(5)}
           >
             Kids
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>

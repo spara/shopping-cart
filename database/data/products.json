@@ -7,7 +7,7 @@
   "category": "boba",
   "images": [
     {
-      "src": "./public/img/classic_milk_tea.png",
+      "src": "./img/classic_milk_tea.png",
       "color": "",
       "hex": ""
     }
@@ -40,7 +40,7 @@
   "category": "boba",
   "images": [
     {
-      "src": "./public/img/ginger_milk_tea.png",
+      "src": "./img/ginger_milk_tea.png",
       "color": "",
       "hex": ""
     }
@@ -73,7 +73,7 @@
   "category": "boba",
   "images": [
     {
-      "src": "./public/img/taro_milk_tea.png",
+      "src": "./img/taro_milk_tea.png",
       "color": "White",
       "hex": "#FAFAFA"
     }
@@ -106,7 +106,7 @@
   "category": "boba",
   "images": [
     {
-      "src": "./public/img/thai_milk_tea.png",
+      "src": "./img/thai_milk_tea.png",
       "color": "Pink",
       "hex": "#E53F90"
     }
@@ -139,7 +139,7 @@
   "category": "chill",
   "images": [
     {
-      "src": "./public/img/mango_chill.png",
+      "src": "./img/mango_chill.png",
       "color": "",
       "hex": ""
     }
@@ -172,7 +172,7 @@
   "category": "latte",
   "images": [
     {
-      "src": "./public/img/matcha_latte.png",
+      "src": "./img/matcha_latte.png",
       "color": "",
       "hex": ""
     }
@@ -205,7 +205,7 @@
   "category": "chill",
   "images": [
     {
-      "src": "./public/img/matcha_chill.png",
+      "src": "./img/matcha_chill.png",
       "color": "Black",
       "hex": "#1C1B1D"
     }
@@ -238,7 +238,7 @@
   "category": "chill",
   "images": [
     {
-      "src": "./public/img/pulumipus_chill.png",
+      "src": "./img/pulumipus_chill.png",
       "color": "",
       "hex": ""
     }
@@ -271,7 +271,7 @@
   "category": "chill",
   "images": [
     {
-      "src": "./public/img/strawberry_chill.png",
+      "src": "./img/strawberry_chill.png",
       "color": "",
       "hex": ""
     }
@@ -304,7 +304,7 @@
   "category": "chill",
   "images": [
     {
-      "src": ",/public/img/taro_chill.png",
+      "src": ",/img/taro_chill.png",
       "color": "",
       "hex": ""
     }

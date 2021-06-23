@@ -63,7 +63,7 @@ const CarouselFullScreen = ({ product }) => {
       {product.images.map((img, i) => (
         <div className={style.preview_large} key={i}>
           <div className={style.cover_large}>
-            <img src={img.src} alt={product.name} />
+            <img src={require(img.src)} alt={product.name} />
           </div>
         </div>
       ))}

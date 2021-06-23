@@ -7,7 +7,7 @@
   "category": "boba",
   "images": [
     {
-      "src": "./img/classic_milk_tea.png",
+      "src": "./images/classic_milk_tea.png",
       "color": "",
       "hex": ""
     }
@@ -40,7 +40,7 @@
   "category": "boba",
   "images": [
     {
-      "src": "./img/ginger_milk_tea.png",
+      "src": "./images/ginger_milk_tea.png",
       "color": "",
       "hex": ""
     }
@@ -69,11 +69,11 @@
     "$oid": "5f6d734f19ce90070b4837ce"
   },
   "status": 2,
-  "customerType": 3,
+  "customerType": 2,
   "category": "boba",
   "images": [
     {
-      "src": "./img/taro_milk_tea.png",
+      "src": "./images/taro_milk_tea.png",
       "color": "White",
       "hex": "#FAFAFA"
     }
@@ -102,11 +102,11 @@
     "$oid": "5f6d74c519ce90070b4837cf"
   },
   "status": 1,
-  "customerType": 3,
+  "customerType": 2,
   "category": "boba",
   "images": [
     {
-      "src": "./img/thai_milk_tea.png",
+      "src": "./images/thai_milk_tea.png",
       "color": "Pink",
       "hex": "#E53F90"
     }
@@ -135,11 +135,11 @@
     "$oid": "5f6d761c19ce90070b4837d0"
   },
   "status": 1,
-  "customerType": 5,
+  "customerType": 4,
   "category": "chill",
   "images": [
     {
-      "src": "./img/mango_chill.png",
+      "src": "./images/mango_chill.png",
       "color": "",
       "hex": ""
     }
@@ -168,11 +168,11 @@
     "$oid": "5f6e0a4340fdb952de7f9314"
   },
   "status": 2,
-  "customerType": 2,
+  "customerType": 6,
   "category": "latte",
   "images": [
     {
-      "src": "./img/matcha_latte.png",
+      "src": "./images/matcha_latte.png",
       "color": "",
       "hex": ""
     }
@@ -201,11 +201,11 @@
     "$oid": "5f6e0b6440fdb952de7f9315"
   },
   "status": 2,
-  "customerType": 2,
+  "customerType": 4,
   "category": "chill",
   "images": [
     {
-      "src": "./img/matcha_chill.png",
+      "src": "./images/matcha_chill.png",
       "color": "Black",
       "hex": "#1C1B1D"
     }
@@ -234,11 +234,11 @@
     "$oid": "5f6e0c3040fdb952de7f9316"
   },
   "status": 1,
-  "customerType": 2,
+  "customerType": 4,
   "category": "chill",
   "images": [
     {
-      "src": "./img/pulumipus_chill.png",
+      "src": "./images/pulumipus_chill.png",
       "color": "",
       "hex": ""
     }
@@ -254,7 +254,7 @@
     "L"
   ],
   "name": "Pulumipus Chill",
-  "price": 12495,
+  "price": 6.00,
   "description": "Our special mix of mango, pineapple, kiwi, and more. A deliciously cold drink from you favorite platypus.",
   "productCode": "CK7513-003",
   "ratings": {
@@ -271,7 +271,7 @@
   "category": "chill",
   "images": [
     {
-      "src": "./img/strawberry_chill.png",
+      "src": "./images/strawberry_chill.png",
       "color": "",
       "hex": ""
     }
@@ -300,11 +300,11 @@
     "$oid": "5f6e0e8940fdb952de7f9318"
   },
   "status": 1,
-  "customerType": 3,
+  "customerType": 4,
   "category": "chill",
   "images": [
     {
-      "src": ",/img/taro_chill.png",
+      "src": "./images/taro_chill.png",
       "color": "",
       "hex": ""
     }

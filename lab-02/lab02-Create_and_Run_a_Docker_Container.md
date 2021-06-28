@@ -1,10 +1,10 @@
-# Lab 02 - Create & Run a Docker Containers
+# Lab 02 - Create & Run a Docker Container
 
-In this lab, we'll create our first Pulumi resource. We'll run a Docker containers we build locally using infrastructure as code.
+In this lab, we'll create our first Pulumi resource. We'll run a Docker container we build locally using infrastructure as code.
 
 ## Step 1 - Verify your application
 
-We have a preconfigured MERN (Mongo, Express, React, Node) application in our repo. Take a look at `app/python/__main__.py`
+We have a preconfigured python webserver application in our repo. Take a look at `app/python/__main__.py`
 
 ```python
 import http.server
